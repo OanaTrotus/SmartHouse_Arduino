@@ -2,7 +2,7 @@
 ## <p align="center"> *Smart House - Arduino*
 
 ## Proiect realizat de studentii:
-- Tr
+- Trotus Oana [![Website](https://github.com/OanaTrotus)
 - Tu
 
 ## Descriere
@@ -10,9 +10,9 @@
 
 ## Cuprins:
  - :bulb: [Functionalitati](#F)
- - [Componente](#C)
- - [Surse](#S)
- - [Motor DC](#DC)
+ - :bulb: [Componente](#C)
+ - :bulb: [Surse](#S)
+ - :bulb: [Motor DC](#DC)
 
  ## :bulb: Functionalitati <a name="D"></a>
  ## Componente      <a name="C"></a>
