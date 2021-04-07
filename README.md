@@ -1,9 +1,8 @@
 
-<h1 align="center"><b>Proiect SMP 2021</b></h1>
+#  <p style="line-height: 0.5;" align="center" > **Proiect SMP 2021**
+## <p style="line-height: 0;" align="center"> Smart House - Arduino 
 
-<h2 align="center">Smart House - Arduino </h2>
-
-
-### 
+### **Autori:**
  - Tudor Costin
  - Oana Trotus
+
