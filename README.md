@@ -4,7 +4,11 @@
 
 <br />
 
-### Proiect realizat de studentii:
+### Proiect realizat de studenții:
 * Trotuș Oana
 * Tudor Costin-Cristian
 
+<br />
+
+### Cuprins:
+- :bulb: Functonalitati
