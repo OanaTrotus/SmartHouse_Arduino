@@ -8,7 +8,8 @@
 * Trotuș Oana
 * Tudor Costin-Cristian
 
-<br />
-
 ### Cuprins:
 - :bulb: Functonalitati
+- :bulb: Componente
+- :bulb: Resurse
+- :bulb: 
