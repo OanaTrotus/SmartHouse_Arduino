@@ -2,8 +2,8 @@
 ## <p align="center"> *Smart House - Arduino*
 
 ## Proiect realizat de studentii:
-- Trotus Oana [![Website](https://github.com/OanaTrotus)
-- Tu
+- [Trotus Oana](https://github.com/OanaTrotus)
+- [Tudor Costin-Cristian]()
 
 ## Descriere
 
