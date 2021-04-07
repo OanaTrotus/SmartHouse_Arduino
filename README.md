@@ -1,5 +1,6 @@
-<div style="line-height:1px; margin-bottom:30px; width:100%;">
-<h1 style="text-align:center; font-weight:bold;">Proiect SMP 2021</h1>
+<center>
+<div style="line-height:1px; margin-bottom:30px;">
+<h1 style="text-align:center; font-weight:bold;">Proiect SMP 2021</h1></center>
 
 <h2 style="text-align:center; text-decoration: underline;">Smart House - Arduino </h2>
 </div>
