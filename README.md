@@ -8,5 +8,3 @@
 * Trotuș Oana
 * Tudor Costin-Cristian
 
-### Cuprins:
-
