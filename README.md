@@ -11,7 +11,7 @@ In cadrul cursului de *Actionari* din anul II de facultate, am implementat cu aj
  - :bulb: [Functionalitati](#F)
  - :bulb: [Componente](#C)
  - :bulb: [Surse](#S)
- - :bulb: [Motor DC](#DC)
+ - :bulb: [Implementare usa garaj](#DC)
 
  ## Functionalitati <a name="D"></a>
  - :clipboard: Aplicatie mobila de control
@@ -33,9 +33,10 @@ In cadrul cursului de *Actionari* din anul II de facultate, am implementat cu aj
  - :pushpin: Senzor de temperatură
  - :pushpin: Modul Bluetooth
 
- ## Surse           <a name="S"></a>
- ## Motor DC        <a name="DC"></a>
+ ## Surse <a name="S"></a>
+ - :link: [Link 1]()
+ - :link: [Link 2]()
+ - :link:[ Link 3]()
 
-
-
-
+ ## Implementare usa garaj <a name="DC"></a>
+Pentru construirea usii de garaj am montat doua canale in forma de ”U”, lungi de aproximativ 16 cm, pe care culiseaza usa propriu-zisa. Aceasta este realizata din betisoare de lemn lungi de aproximativ 14 cm. Barele sunt legate elastic intre ele, astfel incat sa permita infasurarea lor in partea superioara a usii pe doua role cilindrice, care sunt montate la randul lor pe un ax metalic. Axul pe care se infasoara usa este sustinut de doua suporturi fixate pe peretele frontal, deasupra decupajului de acces. La capatul axului, este montat un capac de sticla pe al carui diametru este creat un canal care va face legatura cu ansamblul motorului. Ansamblul motorului este compus din motorul propriu-zis si reductorul de turatie, care are un raport de reductie de 5:1 rotatii. Perpendicular pe axul de iesire din reductorul de turatie este montata o tija metalica, care va intra in canalul de pe capac de la capatul axului portii, realizand astfel cuplajul dintre motor si sistemul mecanic de ridicare/coborare.
