@@ -9,7 +9,7 @@
 
 
 ## Cuprins:
- - [Functionalitati](#F)
+ - :bulb: [Functionalitati](#F)
  - [Componente](#C)
  - [Surse](#S)
  - [Motor DC](#DC)
