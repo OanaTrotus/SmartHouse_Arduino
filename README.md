@@ -1,5 +1,4 @@
-#  <p align="center"> **Proiect SMP 2021** 
-## <p align="center"> *Smart House - Arduino*
+#  <p align="center"> **Proiect SMP 2021** <br>  *Smart House - Arduino* <br/>
 
 ## Proiect realizat de studentii:
 - [Trotus Oana](https://github.com/OanaTrotus)
