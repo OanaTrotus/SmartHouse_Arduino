@@ -9,7 +9,4 @@
 * Tudor Costin-Cristian
 
 ### Cuprins:
-- :bulb: Functonalitati
-- :bulb: Componente
-- :bulb: Resurse
-- :bulb: 
+
