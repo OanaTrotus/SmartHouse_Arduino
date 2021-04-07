@@ -1,14 +1,17 @@
+<h1 align="center">Sistem RGB</h1>
+<h3 align="center">Proiect SMP 2021<br></h3>
 
-#  <p align="center" > **Proiect SMP 2021**
-## <p align="center"> Smart House - Arduino 
+## Cuprins:
+ - [Functionalitati](#F)
+ - [Componente](#C)
+ - [Surse](#S)
+ - [Motor DC](#DC)
 
-<br />
+ ## Functionalitati <a name="D"></a>
+ ## Componente      <a name="C"></a>
+ ## Surse           <a name="S"></a>
+ ## Motor DC        <a name="DC"></a>
 
-### Proiect realizat de studenții:
-* Trotuș Oana
-* Tudor Costin-Cristian
 
-<br />
 
-### Cuprins:
-- :bulb: Functonalitati
+
