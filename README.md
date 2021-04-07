@@ -14,12 +14,12 @@ In cadrul cursului de *Actionari* din anul II de facultate, am implementat cu aj
  - :bulb: [Motor DC](#DC)
 
  ## Functionalitati <a name="D"></a>
- - :star: Aplicatie mobila de control
-   - :star: Deschiderea usii 
-   - :star: Aprinderea/stingerea LED-urilor
-   - :star: Verificarea temperaturii dintr-o incapere si reglarea acesteia
-   - :star: Afisarea distantei masurate de senzor
- - :star: Masurarea distantei dintre vehicul si usa garajului cu ajutorul unui senzor 
+ - :clipboard: Aplicatie mobila de control
+   - :clipboard: Deschiderea usii 
+   - :clipboard: Aprinderea/stingerea LED-urilor
+   - :clipboard: Verificarea temperaturii dintr-o incapere si reglarea acesteia
+   - :clipboard: Afisarea distantei masurate de senzor
+ - :clipboard: Masurarea distantei dintre vehicul si usa garajului cu ajutorul unui senzor 
 
  ## Componente      <a name="C"></a>
  ## Surse           <a name="S"></a>
