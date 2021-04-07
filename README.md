@@ -6,7 +6,7 @@
 - [Tudor Costin-Cristian](https://github.com/TudorCostinCristian)
 
 ## Descriere
-In cadrul cursului de Actionari din anul II de facultate, am implementat cu ajutorul unei placi de dezvoltare Arduino UNO si a unui motor DC, o usa glisanta de garaj. Ne propunem ca in cadrul acestui proiect sa aducem noi functionalitati.
+In cadrul cursului de Actionari din anul II de facultate, am implementat cu ajutorul unei placi de dezvoltare Arduino UNO si a unui motor DC, o usa glisanta de garaj. Ne propunem ca in cadrul acestui proiect sa aducem noi functionalitati pe care sa le integram intr-o aplicatie mobila.
 
 ## Cuprins:
  - :bulb: [Functionalitati](#F)
