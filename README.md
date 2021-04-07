@@ -1,8 +1,10 @@
 
-#  <p style="line-height: 10;" align="center" > **Proiect SMP 2021**
-## <p style="line-height: 0;" align="center"> Smart House - Arduino 
+#  <p align="center" > **Proiect SMP 2021**
+## <p align="center"> Smart House - Arduino 
 
-### **Autori:**
- - Tudor Costin
- - Oana Trotus
+<br />
+
+### Proiect realizat de studentii:
+* Trotuș Oana
+* Tudor Costin-Cristian
 
