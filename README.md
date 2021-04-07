@@ -3,7 +3,7 @@
 
 ## Proiect realizat de studentii:
 - [Trotus Oana](https://github.com/OanaTrotus)
-- [Tudor Costin-Cristian]()
+- [Tudor Costin-Cristian](https://github.com/TudorCostinCristian)
 
 ## Descriere
 
@@ -14,7 +14,8 @@
  - :bulb: [Surse](#S)
  - :bulb: [Motor DC](#DC)
 
- ## :bulb: Functionalitati <a name="D"></a>
+ ## Functionalitati <a name="D"></a>
+
  ## Componente      <a name="C"></a>
  ## Surse           <a name="S"></a>
  ## Motor DC        <a name="DC"></a>
