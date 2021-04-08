@@ -1,8 +1,8 @@
 #  <p align="center"> **Proiect SMP 2021** <br>  *Smart House - Arduino* <br/>
 
 ## Proiect realizat de studentii:
-- :link: [Trotus Oana](https://github.com/OanaTrotus)
-- :link: [Tudor Costin-Cristian](https://github.com/TudorCostinCristian)
+- :link: [*Trotus Oana*](https://github.com/OanaTrotus)
+- :link: [*Tudor Costin-Cristian*](https://github.com/TudorCostinCristian)
 
 ## Descriere
 In cadrul cursului de *Actionari* din anul II de facultate, am implementat cu ajutorul unei placi de dezvoltare ***Arduino UNO*** si a unui ***motor DC***, o usa glisanta de garaj. Ne propunem ca in cadrul acestui proiect sa dezvoltam o aplicatie mobila care sa permita controlul mai multor parametrii corespunzatori unor noi functionalitati aduse proiectului.
