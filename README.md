@@ -22,16 +22,16 @@ In cadrul cursului de *Actionari* din anul II de facultate, am implementat cu aj
  - :clipboard: Masurarea distantei dintre vehicul si usa garajului cu ajutorul unui senzor 
 
  ## Componente <a name="C"></a>
- - :pushpin: Plăcuță Arduino UNO R3
- - :pushpin: Breadboard
- - :pushpin: Fire de legătură
- - :pushpin: Modul Driver Motor
- - :pushpin: Motor DC 
- - :pushpin: Ventilator
- - :pushpin: Rezistențe  
- - :pushpin: LED-uri
- - :pushpin: Senzor de temperatură
- - :pushpin: Modul Bluetooth
+   :pushpin: Plăcuță Arduino UNO R3
+   :pushpin: Breadboard
+   :pushpin: Fire de legătură
+   :pushpin: Modul Driver Motor
+   :pushpin: Motor DC 
+   :pushpin: Ventilator
+   :pushpin: Rezistențe  
+   :pushpin: LED-uri
+   :pushpin: Senzor de temperatură
+   :pushpin: Modul Bluetooth
 
  ## Surse <a name="S"></a>
  - :link: [Link 1]()
